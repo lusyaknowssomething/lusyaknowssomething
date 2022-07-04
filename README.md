@@ -11,8 +11,8 @@
 - Открыта к новым предложениям :)
 <br>
 
-[![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=green&logo=telegram)](https://t.me/ytvlnv)
-[![email](https://img.shields.io/static/v1?label&message=lyudmila.khatanzeyskaya@yandex.ru&color=green&logo=gmail)](mailto:lyudmila.khatanzeyskaya@yandex.ru)
+[![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=white&logo=telegram)](https://t.me/ytvlnv)
+[![email](https://img.shields.io/static/v1?label&message=lyudmila.khatanzeyskaya@yandex.ru&color=white&logo=gmail)](mailto:lyudmila.khatanzeyskaya@yandex.ru)
 
 <br>
 
