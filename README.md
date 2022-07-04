@@ -25,3 +25,6 @@
     
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusyaknowssomething)](https://git.io/streak-stats)
+## :trophy: Моя статистика: ##
+[![Lyudmila Khatanzeyskaya GitHub stats](https://github-readme-stats.vercel.app/api?username=lusyaknowssomething&theme=graywhite&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/lusyaknowssomething)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusyaknowssomething&layout=compact&theme=graywhite&card_width=445)](https://github.com/lusyaknowssomething)
