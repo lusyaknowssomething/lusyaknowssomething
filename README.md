@@ -1,7 +1,7 @@
 <h2> Привет, меня зовут Людмила! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80"></h2>
 <img align='right' src="https://i.postimg.cc/3xwrv9MD/I-love-to-design-illustrate-and-eat-pizza.gif" width="230">
-<p><em>Выпускница <a href="https://practicum.yandex.ru">Яндекс.Практикума</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Студентка образовательной программы от компании Билайн <a href="https://www.beeline-interns.ru/"> Beeinterns</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Выпускница <a href="https://practicum.yandex.ru">Яндекс.Практикума</a>
+</br>Студентка образовательной программы от компании Билайн <a href="https://www.beeline-interns.ru/"> Beeinterns</a></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...  
 - Я начинающая front-end разработчица;
