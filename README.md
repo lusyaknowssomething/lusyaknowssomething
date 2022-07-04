@@ -10,7 +10,9 @@
 активный отдых;
 - Открыта к новым предложениям :)
 <br>
-
+[![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=black&logo=telegram)](https://t.me/ytvlnv)
+[![email](https://img.shields.io/static/v1?label&message=lyudmila.khatanzeyskaya@yandex.ru&color=black&logo=gmail)](mailto:lyudmila.khatanzeyskaya@yandex.ru)
+<br>
 ## :supervillain_woman: Мой стек технологий: ##
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -32,6 +34,3 @@
 [![Lyudmila Khatanzeyskaya GitHub stats](https://github-readme-stats.vercel.app/api?username=lusyaknowssomething&theme=graywhite&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/lusyaknowssomething)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusyaknowssomething)](https://git.io/streak-stats)
-<br>
-[![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=black&logo=telegram)](https://t.me/ytvlnv)
-[![email](https://img.shields.io/static/v1?label&message=lyudmila.khatanzeyskaya@yandex.ru&color=black&logo=gmail)](mailto:lyudmila.khatanzeyskaya@yandex.ru)
