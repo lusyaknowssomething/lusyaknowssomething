@@ -8,6 +8,8 @@
 - Учусь писать чистый и понятный код; 
 - Открыта к новым предложениям :)
 
+
+
 <h3 align="left">Мой стек технологий:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -23,8 +25,7 @@
 <a href="https://www.figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     </p>
     
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusyaknowssomething)](https://git.io/streak-stats)
 ## :trophy: Моя статистика: ##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusyaknowssomething)](https://git.io/streak-stats)
 [![Lyudmila Khatanzeyskaya GitHub stats](https://github-readme-stats.vercel.app/api?username=lusyaknowssomething&theme=graywhite&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/lusyaknowssomething)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusyaknowssomething&layout=compact&theme=graywhite&card_width=445)](https://github.com/lusyaknowssomething)
