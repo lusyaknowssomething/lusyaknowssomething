@@ -33,5 +33,5 @@
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusyaknowssomething)](https://git.io/streak-stats)
 <br>
-[![telegram](https://img.shields.io/static/v1?label&message=AlexanderKuznetcov&color=black&logo=telegram)](https://t.me/AlexanderKuznetcov)
-[![email](https://img.shields.io/static/v1?label&message=alexander.an.kuznetsov@gmail.com&color=black&logo=gmail)](mailto:alexander.an.kuznetsov@gmail.com)
+[![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=black&logo=telegram)](https://t.me/ytvlnv)
+[![email](https://img.shields.io/static/v1?label&message=lyudmila.khatanzeyskaya@yandex.ru&color=black&logo=gmail)](mailto:lyudmila.khatanzeyskaya@yandex.ru)
