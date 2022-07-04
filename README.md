@@ -32,3 +32,6 @@
 [![Lyudmila Khatanzeyskaya GitHub stats](https://github-readme-stats.vercel.app/api?username=lusyaknowssomething&theme=graywhite&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/lusyaknowssomething)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusyaknowssomething)](https://git.io/streak-stats)
+<br>
+[![telegram](https://img.shields.io/static/v1?label&message=AlexanderKuznetcov&color=black&logo=telegram)](https://t.me/AlexanderKuznetcov)
+[![email](https://img.shields.io/static/v1?label&message=alexander.an.kuznetsov@gmail.com&color=black&logo=gmail)](mailto:alexander.an.kuznetsov@gmail.com)
