@@ -14,7 +14,7 @@
 [![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=blue&logo=telegram)](https://t.me/ytvlnv)
 [![email](https://img.shields.io/static/v1?label&message=lyudmila.khatanzeyskaya@yandex.ru&color=blue&logo=gmail)](mailto:lyudmila.khatanzeyskaya@yandex.ru)
 
-<br>
+<br> 
 
 ## :supervillain_woman: Мой стек технологий: ##
 <p align="left">
