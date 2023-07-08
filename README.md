@@ -1,12 +1,13 @@
 <h2> Привет, меня зовут Людмила! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80"></h2>
 <img align='right' src="https://i.postimg.cc/3xwrv9MD/I-love-to-design-illustrate-and-eat-pizza.gif" width="230">
 <p><em>Выпускница <a href="https://practicum.yandex.ru">Яндекс.Практикума</a>
-</br>Студентка образовательной программы от компании Билайн <a href="https://www.beeline-interns.ru/"> Beeinterns</a></em></p>
+</br>Выпускница образовательной программы от компании Билайн <a href="https://www.beeline-interns.ru/"> Beeinterns</a></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...  
 - Я начинающая front-end разработчица;
 - Учусь писать чистый и понятный код;
-- Участвую в проекте <a href="http://dev-demencia.tk/">Деменция.net</a> в команде с другими Frontend-разработчиками из Яндекс.Практикума.
+- Участвовала в проекте <a href="http://dev-demencia.tk/">Деменция.net</a> в команде с другими Frontend-разработчиками из Яндекс.Практикума.
+- Работала над проектом <a href="https://tradelink.pro/">TradeLink</a>.
 - Люблю настольные игры, ухаживать за комнатными растениями, читать зарубежную классику и
 активный отдых
 <br>
