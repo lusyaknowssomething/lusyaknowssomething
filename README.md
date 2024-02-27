@@ -10,6 +10,7 @@
 - Работала над проектом <a href="https://tradelink.pro/">TradeLink</a>.
 - Люблю настольные игры, ухаживать за комнатными растениями, читать зарубежную классику и
 активный отдых.
+
 <br>
 
 [![telegram](https://img.shields.io/static/v1?label&message=ytvlnv&color=blue&logo=telegram)](https://t.me/ytvlnv)
